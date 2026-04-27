@@ -1,3 +1,3 @@
 # safe_call
 
-A new Flutter project.
+A safety companion app made in Flutter
